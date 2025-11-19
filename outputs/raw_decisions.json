@@ -1,0 +1,48 @@
+[
+  {
+    "report_id": "3292832",
+    "items": [
+      {
+        "drug_name": "VALGANSIKLORİV",
+        "payable": false,
+        "reason": "SUT kapsamında VALGANSIKLORİV için uygun endikasyon veya tanı kodu eksik; organ nakli sonrası profilaksi için kullanımı genellikle belirli koşullara bağlıdır, ancak bu raporda yetersiz bilgi mevcut.",
+        "missing_criteria": [
+          "Uygun SUT endikasyon kodu",
+          "Organ nakli sonrası profilaksi için destekleyici tanı veya klinik gerekçe"
+        ]
+      }
+    ],
+    "global_notes": "Raporda VALGANSIKLORİV için SUT uyumluluğu sağlanamamıştır; eksik endikasyon ve tanı kodları nedeniyle ödeme onayı verilemez."
+  },
+  {
+    "report_id": "10313",
+    "items": [
+      {
+        "drug_name": "ADET",
+        "payable": false,
+        "reason": "ADET için SUT eşleşmeleri belirsiz; ilaç adı ve dozaj bilgisi eksik, genel SUT kurallarına göre ödenemez.",
+        "missing_criteria": [
+          "Spesifik ilaç adı",
+          "Doğrulanmış dozaj ve endikasyon bilgisi"
+        ]
+      }
+    ],
+    "global_notes": "Raporda ADET ilacı için yetersiz bilgi mevcut; SUT uyumluluğu değerlendirilemiyor."
+  },
+  {
+    "report_id": "9697",
+    "items": [
+      {
+        "drug_name": "EDOKSABAN TOSILAT",
+        "payable": false,
+        "reason": "SUT'ta bu ilaç için uygun endikasyon veya kısıtlama bilgisi bulunamadı; ICD kodları ve dozaj detayları eksik.",
+        "missing_criteria": [
+          "Uygun ICD kodu",
+          "SUT onaylı endikasyon belgesi",
+          "Doğru dozaj bilgisi"
+        ]
+      }
+    ],
+    "global_notes": "Raporda ICD kodları eksik ve ilaç için SUT uygunluk bilgisi bulunmuyor; ek belgeler gereklidir."
+  }
+]
